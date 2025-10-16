@@ -4,7 +4,7 @@ services:
     build:
       context: ./yanami-spring
       dockerfile: Dockerfile
-    container_name: yanami-backend
+    container_name: yanami-backend-6670
     ports:
       - "8080:8080"
     environment:
@@ -24,7 +24,7 @@ services:
     build:
       context: ./yanami
       dockerfile: Dockerfile
-    container_name: yanami-frontend
+    container_name: yanami-frontend-6670
     ports:
       - "80:80"
     depends_on:
