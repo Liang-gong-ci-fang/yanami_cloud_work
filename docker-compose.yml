@@ -22,7 +22,7 @@ services:
   # Vue 前端服务
   frontend:
     build:
-      context: ./yanami
+      context: ./yanami-vue
       dockerfile: Dockerfile
     container_name: yanami-frontend-6670
     ports:

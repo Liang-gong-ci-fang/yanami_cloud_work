@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d131ec-2bb0-48f1-b4e4-a48aa7d5e313" name="Changes" comment="first commit">
+    <list default="true" id="63d131ec-2bb0-48f1-b4e4-a48aa7d5e313" name="Changes" comment="修改镜像名称">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +118,7 @@
       <workItem from="1758898652659" duration="889000" />
       <workItem from="1760134134456" duration="2404000" />
       <workItem from="1760594818949" duration="5204000" />
-      <workItem from="1760603331866" duration="1912000" />
+      <workItem from="1760603331866" duration="2578000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -127,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760604540236</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改镜像名称">
+      <option name="closed" value="true" />
+      <created>1760605692285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760605692285</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +144,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="修改镜像名称" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改镜像名称" />
   </component>
 </project>
