@@ -4,6 +4,7 @@ services:
     build:
       context: ./yanami-spring
       dockerfile: Dockerfile
+    image: yanami-backend-6670
     container_name: yanami-backend-6670
     ports:
       - "8080:8080"
@@ -24,6 +25,7 @@ services:
     build:
       context: ./yanami-vue
       dockerfile: Dockerfile
+    image: yanami-frontend-6670
     container_name: yanami-frontend-6670
     ports:
       - "80:80"
